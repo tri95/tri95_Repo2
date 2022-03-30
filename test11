@@ -9,4 +9,3 @@ resource "aws_iam_user" "IAMUser" {
     path = "/"
     name = "m-osada@cresco-jinzai"
 }
-a
